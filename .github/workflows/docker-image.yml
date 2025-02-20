@@ -2,7 +2,7 @@ name: Build and Push Docker Image
 
 on:
   push:
-    branches: [ "odmax" ]  
+    branches: [ "odmax" ]  #
 
 jobs:
   build-and-push:
